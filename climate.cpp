@@ -1,7 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////
 // Author: Joshua Stromberg
-// Class: CSCI140
-// Assignment: Project 1, Climate Program
 // Description: Program uses user input to record weather data from any number of days
 // using a while loop to count how many times the user input command must be repeated
 // based on how many days of data the user has. The program also uses formulas to average
